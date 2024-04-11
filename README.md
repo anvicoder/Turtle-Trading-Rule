@@ -1,6 +1,6 @@
 # Turtle-Trading-Rule
 # Turtle Trading EDA Model
-Step 1: Read the Turtle Trading Research Paper \n
+Step 1: Read the Turtle Trading Research Paper <be>
 Step 2: Downloaded the data in the local device and upload it on Google colab
 Step 3: Uploaded the data in the data frame using Pandas Library to perform EDA(Exploratory Data Analysis)
 Step 4: Calculating and removing the missing Values and exploring the datatype of each column
